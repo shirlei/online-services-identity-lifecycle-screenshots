@@ -1,6 +1,6 @@
 ### Create account
 
-*Steps performed via web browser.*
+*Steps performed via a web browser.*
 
 1 - Access to the initial page ([1-microsoft-create-account.png](./create/1-microsoft-create-account.png)).
 
