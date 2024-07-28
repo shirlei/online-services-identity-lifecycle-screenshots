@@ -1,10 +1,10 @@
 ### Create account
 
-*Steps performed via web browser.*
+*Steps performed via a web browser.*
 
-1 - Access to initial page ([1-instagram-create-account.png](./create/1-instagram-create-account.png)).
+1 - Access the initial page ([1-instagram-create-account.png](./create/1-instagram-create-account.png)).
 
-2 - Fill up the signup form ([2-instagram-create-account.png](./create/2-instagram-create-account.png)).
+2 - Fill up the signup form after clicking on *Sign up* on step 1 ([2-instagram-create-account.png](./create/2-instagram-create-account.png)).
 
 3 - Add birthday ([3-instagram-create-account.png](./create/3-instagram-create-account.png)).
 
