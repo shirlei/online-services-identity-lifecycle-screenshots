@@ -54,6 +54,8 @@
 13 - A modal window is shown giving the option to include other data in the archive (location activity and apps & services usage), beyond the browse and search history ([16-microsoft-account-manage.png](./usage/16-microsoft-account-manage.png)).
 14 - Information on "Archive in progress is shown" and in the test, since it was a small file, the archive in progress quickly became the file available to download, as a zip containing CSV files ([18-microsoft-account-manage.png](./usage/18-microsoft-account-manage.png)).
 
+15 - On the "Security" option it is possible to analyse activities related to sign-in on the account ([19-microsoft-account-manage.png](./usage/19-microsoft-account-manage.png)).
+
 ### Account deletion
 
 1 - After logging in, on the user "Account" page, section _Your info_, the user can choose to close the account ([01-microsoft-account-manage.png](./deletion/01-microsoft-account-delete.png)).

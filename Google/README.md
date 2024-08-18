@@ -48,7 +48,7 @@
 
 11 - Google informs that the download request is in progress and that the user will receive an email when it is done ([14-google-account-manage.png](./usage/14-google-account-manage.png)).
 
-
+12 - On the "Security" option it is possible to analyse activities related to sign-in on the account, devices where the user is signed in, connected third-party apps and enhance the security of the account, like turning on two-factor authentication ([15-google-account-manage.png](./usage/15-google-account-manage.png)).
 
 ### Account deletion
 

@@ -64,6 +64,8 @@
 
 25 - The user can then wait for the transfer to be complete by clicking *Done* or clicking on *View transfer progress* ([30-facebook-account-usage.png](./usage/30-facebook-account-usage.png)).
 
+26 - On the Accounts Center, option "Password and security", the user can change password, enable two-factor authentication, review where he/she is logged in, enable login alerts ([31-facebook-account-usage.png](./usage/31-facebook-account-usage.png)).
+
 ### Account deletion
 
 1 - Follow the steps 1 to 5 of Usage and Maintenance.

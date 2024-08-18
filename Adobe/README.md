@@ -40,7 +40,7 @@
 
 7 - For the *Edit Profile* option a page is displayed where account details provided on the sign-up can be changed as well as added new information like secondary email and mobile number. It is also possible to add a public profile, with details like a picture, profile name, screen name and company ([07-adobe-account-manage.png](./usage/07-adobe-account-manage.png)).
 
-8 - In the menu _Sign-in and security_ users can change their password and strengthen their account by setting up passkeys and two-step verification. They can also connect social accounts for third-party sign-in ([08-adobe-account-manage.png](./usage/08-adobe-account-manage.png)).
+8 - In the menu _Sign-in and security_ users can change their password and strengthen their account by setting up passkeys and two-step verification. They can also connect social accounts for third-party sign-in and check active sessions/devices ([08-adobe-account-manage.png](./usage/08-adobe-account-manage.png)).
 
 9 - In the menu _Data and privacy settings_ users have the option to opt out of some information sharing and manage third-party apps connected to the Adobe account. It is also possible to request the deletion of the Adobe account from that page ([09-adobe-account-manage.png](./usage/09-adobe-account-manage.png)).
 

@@ -57,7 +57,11 @@
  
 8 - On the Settings page, option *Security*,  the user can activate two-factor authentication, add login options using social accounts, third-party apps logged to the Pinterest account, and see connected devices ([09-pinterest-account-manage.png](./usage/09-pinterest-account-manage.png)).
  
+9 - On the Privacy and data page, the user can request a copy of their data by clicking on *Start request* ([08-pinterest-account-manage.png](./usage/08-pinterest-account-manage.png)).
 
+10 - If the user hasn't yet verified his/her email address, a modal windows is shown requesting such a confirmation ([10-pinterest-account-manage.png](./usage/10-pinterest-account-manage.png)).
+
+11 - After verifying the email, a brief notification is shown on the page informing that the user will receive an email about the request. On the received email, is informed that the request was received and is being processed ([11-pinterest-account-manage.png](./usage/11-pinterest-account-manage.png)).
 
 
 ### Account deletion
