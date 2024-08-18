@@ -24,10 +24,9 @@
 
 5 - Inform other personal details required by Adobe that were not available or shared by Google and then click on *Create account* ([05-adobe-create-account-fed.png](./create/05-adobe-create-account-fed.png)).
 
-
 ### Usage and Maintenance
 
-1 - After accessing the initial page and clicking on *Sign in*, fill in the email address on the sign-in form and click continue ([01-adobe-account-login.png](./usage/adobe-account-login.png)).
+1 - After accessing the initial page and clicking on *Sign in*, fill in the email address on the sign-in form and click continue ([01-adobe-account-login.png](./usage/adobe-account-login.png)) or if you created your account with a third-party sign-in like Google, choose that option to connect using it.
 
 2 - Fill in your password and click continue ([02-adobe-account-login.png](./usage/02-adobe-account-login.png)).
 
