@@ -66,7 +66,7 @@
 
 2 - Upon clicking on *Delete account*, it is shown an information page asking the user to *Continue* ([02-pinterest-account-delete.png](./deletion/02-pinterest-account-delete.png)).
 
-3 - On the next page, the user is required to select a reason for leaving and then click on _Send_ email* to receive an email informing about the final step ([03-pinterest-account-delete.png](./deletion/03-pinterest-account-delete.png)).
+3 - On the next page, the user is required to select a reason for leaving and then click on _Send_ email* to receive an email informing about the final step ([03-pinterest-account-delete.png](./deletion/03-pinterest-account-delete.png))([05-pinterest-account-delete.png](./deletion/05-pinterest-account-delete.png)).
 
 4 - To deactivate his/her account, after clicking on *Deactivate account*, the user is redirected to the same step as in step 2.
 
