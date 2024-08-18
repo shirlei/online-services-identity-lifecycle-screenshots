@@ -14,9 +14,11 @@
 
 ### Usage and Maintenance
 
-1 - After logging in, click on the profile icon and then on *Settings and Privacy* ([01-facebook-account-usage.png](./usage/01-facebook-account-usage.png)), then on *Settings* ([02-facebook-account-usage.png](./usage/02-facebook-account-usage.png)).
+1 - On the service initial page, inform your email (or phone number) and password to log in ([01-facebook-account-usage.png](./usage/01-facebook-account-login.png)).
 
-2 - On the settings page, in the "Accounts Center", click on *See more in Accounts Center" ([03-facebook-account-usage.png](./usage/03-facebook-account-usage.png)).
+2 - After logging in, click on the profile icon and then on *Settings and Privacy* ([01-facebook-account-usage.png](./usage/01-facebook-account-usage.png)), then on *Settings* ([02-facebook-account-usage.png](./usage/02-facebook-account-usage.png)).
+
+3 - On the settings page, in the "Accounts Center", click on *See more in Accounts Center" ([03-facebook-account-usage.png](./usage/03-facebook-account-usage.png)).
 
 4 - On the Accounts center, the user can edit password and security personal details, information and permissions, ad preferences ([04-facebook-account-usage.png](./usage/04-facebook-account-usage.png)).
 
@@ -56,7 +58,7 @@
 
 22 - On clicking *Connect* on step 21, the user is redirected to Google to select his/her account ([26-facebook-account-usage.png](./usage/26-facebook-account-usage.png)) and after selecting the account and consenting to Meta access Google Photos library by clicking on *Continue* ([27-facebook-account-usage.png](./usage/27-facebook-account-usage.png)).
 
-23 - After consenting on Google, the user is redirected to Facebook to start the transfer ([28-facebook-account-usage.png](./usage/28-facebook-account-usage.png)).
+23 - After consenting to Google, the user is redirected to Facebook to start the transfer ([28-facebook-account-usage.png](./usage/28-facebook-account-usage.png)).
 
 24 - The user is asked to re-enter his/her password ([29-facebook-account-usage.png](./usage/29-facebook-account-usage.png)).
 
