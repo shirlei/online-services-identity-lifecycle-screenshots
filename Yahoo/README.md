@@ -47,3 +47,34 @@
 10 - Optionally add an account recovery method and click on *Concluído* to conclude ([08-yahoo-create-account-fed.png](./create/08-yahoo-create-account-fed.png)).
 
 
+### Usage and maintenance
+
+1 - On the initial page, click on the envelop icon on the top right of the page and on the login form type your username and click on *Next* if you have an service-specific account ([01-yahoo-create-account-fed.png](./usage/01-yahoo-account-login.png)). If you created an account using Google third-party sign, click on its icon and then select your Google account to procceed ([02-yahoo-create-account-fed.png](./usage/02-yahoo-account-login.png)).
+
+2 - If you haven't yet enabled passkeys, you may be suggested to do so ([03-yahoo-account-login](./usage/03-yahoo-account-login.png))([04-yahoo-account-login](./usage/04-yahoo-account-login.png))([05-yahoo-account-login](./usage/05-yahoo-account-login.png)).
+
+3 - After logged in click on the Profile icon on the top right corner and then on _Account info_ ([06-yahoo-account-manage.png](./usage/06-yahoo-account-manage.png)).
+
+3 - After logged in click on the Profile icon on the top right corner and then on _Account info_ ([06-yahoo-account-manage.png](./usage/06-yahoo-account-manage.png)).
+
+4 - On the manage account page, personal info like email, data of birth, language can be updated ([07-yahoo-account-manage.png](./usage/07-yahoo-account-manage.png)).
+
+5 - On the security page, the user can add recovery email and phone, enable two-factor authentication, change password ([08-yahoo-account-manage.png](./usage/08-yahoo-account-manage.png)).
+
+6 - On the Privacy controls page, the user can configure email analysis, location, content, personalised ads, search terms, request copy of data and delete account ([09-yahoo-account-manage.png](./usage/09-yahoo-account-manage.png)).
+
+7 - On the Privacy controls page, the user can request to download his/her data by clicking on *Baixe e veja seus dados do Yahoo* ([10-yahoo-account-manage.png](./usage/10-yahoo-account-manage.png)).
+
+8 - On the next page select the data you want to download and click *Next/Próximo* ([11-yahoo-account-manage.png](./usage/11-yahoo-account-manage.png)).
+
+9 - Inform one email to receive information on the file to download completion and click on *Request Download/Solicitar o Download* ([12-yahoo-account-manage.png](./usage/12-yahoo-account-manage.png)).
+
+10 - On the next page you are informed that the file is on its way and you will be warned. Click on *Concluido/Done* to exit the pate ([13-yahoo-account-manage.png](./usage/13-yahoo-account-manage.png)).
+
+### Account deletion
+
+1 - On the Privacy controls page, click on delete your Yahoo account ([09-yahoo-account-manage.png](./usage/09-yahoo-account-manage.png)).
+
+2 - On the next page, read the deletion information then click on *Continue delete my account* ([01-yahoo-account-delete.png](./deletion/01-yahoo-account-delete.png)).
+
+3 - On the next page, confirm the account you want to delete then click on *Yes, delete this account* ([02-yahoo-account-delete.png](./deletion/02-yahoo-account-delete.png)).
